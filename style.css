@@ -1,0 +1,41 @@
+.Header{
+   width: 100%;
+   font-size: 35px;
+   margin: 0%;
+   color: darkred;
+   text-shadow: 2px 2px blue;
+
+
+}
+
+.volume_div{
+    float:left;
+  
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+   
+}
+
+.speed_div{
+    float:right;
+}
+
+canvas{
+    border-radius: 5px;
+    border-style: solid;
+    border-color: chartreuse;
+    box-shadow: 10px 10px 30px cyan;
+    margin-top: 250px;
+}
+
+.note{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    color:black;
+}
